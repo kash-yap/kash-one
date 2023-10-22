@@ -15,6 +15,7 @@ json:
     - Hello
     - you can not get there from here
     - look around
+    - ciao
     
 exclude:
   - LICENSE
