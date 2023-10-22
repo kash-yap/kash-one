@@ -9,12 +9,10 @@ url: https://hacked-jekyll.netlify.app
 # can be declared either as a single string or as a string array/hash
 json:
 
-howzit!
-
- 
-  profiles:
-  
-
+description:
+    - Hello,
+    - howzit!
+    
 exclude:
   - LICENSE
   - README.md
