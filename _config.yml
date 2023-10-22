@@ -1,6 +1,6 @@
 # this is only for search engines, it does not appear in the home
 # as long as the json variables name and description are provided
-title: amp kash
+title: 404
 description: 
 baseurl: ""
 url: 
@@ -12,7 +12,7 @@ json:
  name: kash
  
  description:
-    - Hello
+    - What if I told you
     - you can not get there from here
     - look around
     - ciao
