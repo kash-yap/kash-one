@@ -1,6 +1,6 @@
 # this is only for search engines, it does not appear in the home
 # as long as the json variables name and description are provided
-title: 
+title: amp kash
 description: 
 baseurl: ""
 url: 
@@ -9,8 +9,11 @@ url:
 # can be declared either as a single string or as a string array/hash
 json:
 
-    - Hello,
-    - howzit!
+ name: kash
+  description:
+    - Hello
+    - you can not get there from here
+    - look around
     
 exclude:
   - LICENSE
